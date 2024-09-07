@@ -1,0 +1,5 @@
+1- si la clave privada de un usuario se ve comprometida toda la seguridad del sistema puede verse afectada
+
+2- cuando se nesecita manejar grandes volumenes de datos, tener comunicacion en tiempo real o en sisemas de recursos limitados 
+
+3- Planeacion, diseño, desarrollo, pruebas, implementacion, mantenimiento, desactivacion
